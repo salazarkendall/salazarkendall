@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/chrono-trigger.gif" width="630">
-</div>
-
-<div align="center">
    <h3>Programming Languages:</h3>
    <img src="https://github.com/salazarkendall/salazarkendall/blob/master/img/js-logo.png" alt="Javascript" width="50" height="50" />
    <img src="https://github.com/salazarkendall/salazarkendall/blob/master/img/react-logo.png" alt="React" width="50" height="50" />
