@@ -1,3 +1,3 @@
 <div align="center">
-   <h3>Hi there!</h3> 
+   <h1>Hi there! I'm Kendall Salazar</h1> 
 </div>
