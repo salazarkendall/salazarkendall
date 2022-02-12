@@ -2,6 +2,10 @@
    <h1>Hi there! I'm Kendall Salazar</h1> 
 </div>
 
+<p>
+Frontend Developer, experience working with React and Vanilla JS. Also have knowledge in databases (PLSQL, MySQL) and style sheets (CSS, SASS). I'm a self-taught person who likes to take challenges with commitment and determination. Never stop learning.
+</p>
+
 <div align="center">
    <h3>Programming Languages:</h3>
    <img src="https://github.com/salazarkendall/salazarkendall/blob/master/images/js-logo.png" alt="Javascript" width="50" height="50" />
