@@ -10,6 +10,7 @@ Frontend Developer, experience working with React and Vanilla JS. Also have know
    <h3>Programming Languages:</h3>
    <img src="https://github.com/salazarkendall/salazarkendall/blob/master/images/js-logo.png" alt="Javascript" width="50" height="50" />
    <img src="https://github.com/salazarkendall/salazarkendall/blob/master/images/react-logo.png" alt="React" width="50" height="50" />
+   <img src="https://github.com/salazarkendall/salazarkendall/blob/master/images/jest-logo.png" alt="Jest" width="50" />
    <img src="https://github.com/salazarkendall/salazarkendall/blob/master/images/sass-logo.png" alt="Sass" width="50" height="50" />
    <img src="https://github.com/salazarkendall/salazarkendall/blob/master/images/java-logo.png" alt="Java" width="50" height="50" />
    <img src="https://github.com/salazarkendall/salazarkendall/blob/master/images/mysql-logo.png" alt="MySql" width="50" height="50" />
