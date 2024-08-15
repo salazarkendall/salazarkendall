@@ -2,19 +2,10 @@
    <h1>Hi there! I'm Kendall Salazar</h1> 
 </div>
 
-<p>
-Frontend Developer, experience working with React and Vanilla JS. Also have knowledge in databases (PLSQL, MySQL) and style sheets (CSS, SASS). I'm a self-taught person who likes to take challenges with commitment and determination. Never stop learning.
-</p>
-
 <div align="center">
-   <h3>Programming Languages:</h3>
-   <img src="https://github.com/salazarkendall/salazarkendall/blob/master/images/js-logo.png" alt="Javascript" width="50" height="50" />
-   <img src="https://github.com/salazarkendall/salazarkendall/blob/master/images/react-logo.png" alt="React" width="50" height="50" />
-   <img src="https://github.com/salazarkendall/salazarkendall/blob/master/images/jest-logo.png" alt="Jest" width="50" height='50' />
-   <img src="https://github.com/salazarkendall/salazarkendall/blob/master/images/sass-logo.png" alt="Sass" width="50" height="50" />
-   <img src="https://github.com/salazarkendall/salazarkendall/blob/master/images/java-logo.png" alt="Java" width="50" height="50" />
-   <img src="https://github.com/salazarkendall/salazarkendall/blob/master/images/mysql-logo.png" alt="MySql" width="50" height="50" />
-   <img src="https://github.com/salazarkendall/salazarkendall/blob/master/images/oracle-logo.png" alt="Oracle" width="50" height="50" />
+   <p>As a versatile professional in enterprise tool development, I've led the creation of innovative solutions tailored to stakeholders' needs. My expertise spans the implementation of frameworks like Angular and React to build robust tools, while my full-stack proficiency extends to typed languages such as TypeScript and object-oriented programming like C#. Additionally, I've delivered impactful performance enhancements by crafting RPA solutions using Python, leveraging key tools like Pandas and NumPy.
+
+My approach revolves around tackling challenges with persistence, resilience, and creativity. Valuing collaborative input, I seek to enrich my solutions with insights from those around me. This approach has been pivotal in driving performance and efficiency in the tasks I face daily.</p>
 </div>
 
 <br>
