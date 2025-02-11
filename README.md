@@ -1,21 +1,44 @@
-<div align="center">
-   <h1>Hi there! I'm Kendall Salazar</h1> 
-</div>
+# 👋 Hello! I'm Kendall Salazar
 
-<div align="center">
-   <p>As a versatile professional in enterprise tool development, I've led the creation of innovative solutions tailored to stakeholders' needs. My expertise spans the implementation of frameworks like Angular and React to build robust tools, while my full-stack proficiency extends to typed languages such as TypeScript and object-oriented programming like C#. Additionally, I've delivered impactful performance enhancements by crafting RPA solutions using Python, leveraging key tools like Pandas and NumPy.
+💻 Software Developer | 📚 Learning C# and .NET  
+🎯 Aiming for Microsoft | 🏃‍♂️ Runner in progress | 🎨 Amateur artist
 
-My approach revolves around tackling challenges with persistence, resilience, and creativity. Valuing collaborative input, I seek to enrich my solutions with insights from those around me. This approach has been pivotal in driving performance and efficiency in the tasks I face daily.</p>
-</div>
+---
 
-<br>
+## 🛠️ Technologies & Tools  
+- 💻 Languages: JavaScript, TypeScript, C#
+- 🌐 Frameworks: React, Angular, .NET
+- 📦 Databases: SQL Server, Mongo, Firebase 
+- 🛠️ Tools: Git, Postman, Azure   
 
-<div align="center"></div>
-   <h3>Follow me:</h3>
-   <a href="https://www.linkedin.com/in/salazarkendall/">
-      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/LinkedIN_white.png" width="32" height="32"/>
-   </a>
-   <a href="mailto:kendallsalazarvargas@gmail.com">
-      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Gmail_white.png" width="32" height="32"/>
-   </a>
-</div>
+---
+
+<!-- Under development 
+## 🚀 Featured Projects  
+- 📊 [Church Management System](https://github.com/your-username/your-repo) - TCU project for managing members, events, and inventories.  
+- 📱 [Minibus Usage Tracking App](https://github.com/your-username/your-repo) - Mobile application for tracking vehicle usage in the church.  
+---
+-->
+
+## 📌 What I'm Working on Now  
+- Learning C# and .NET for my career transition.  
+- Preparing for interviews with HackerRank and Codility.  
+- Developing my church management system for my TCU project.  
+
+---
+
+## 📚 My Current Reads  
+- 📖 Cracking the Coding Interview  
+- 📖 Pro C# 10 with .NET 6
+
+---
+
+## 📬 Contact Me  
+- 📧 Email: [kendallsalazarvargas@gmail.com](mailto:kendallsalazarvargas@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/salazarkendall](https://linkedin.com/in/salazarkendall)  
+
+---
+
+### 🚀 Stats
+![Kendall's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
