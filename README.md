@@ -8,7 +8,7 @@
 ## 🛠️ Technologies & Tools  
 - 💻 Languages: JavaScript, TypeScript, Python, C#
 - 🌐 Frameworks: React, Angular, .NET
-- 📦 Databases: SQL Server, Mongo, Firebase 
+- 📦 Databases: SQL Server, MongoDB, Firebase 
 - 🛠️ Tools: Git, Postman, Azure   
 
 ---
