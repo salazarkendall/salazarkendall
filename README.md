@@ -28,8 +28,9 @@
 ---
 
 ## 📚 My Current Reads  
-- 📖 Cracking the Coding Interview  
+- 📖 Cracking the Coding Interview
 - 📖 Pro C# 10 with .NET 6
+- 📖 Building Web APIs with ASP.NET Core
 
 ---
 
