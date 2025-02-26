@@ -31,6 +31,7 @@
 - 📖 Cracking the Coding Interview
 - 📖 Pro C# 10 with .NET 6
 - 📖 Building Web APIs with ASP.NET Core
+- 📖 Grikking Data Structures and Algorithms
 
 ---
 
