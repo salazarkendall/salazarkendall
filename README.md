@@ -1,45 +1,16 @@
-# 👋 Hello! I'm Kendall Salazar
+# Hi, I'm Kendall Salazar
 
-💻 Software Developer | 📚 Learning C# and .NET  
-🎯 Aiming for Microsoft | 🏃‍♂️ Runner in progress | 🎨 Amateur artist
+**Java Developer | Backend Architect | Cloud Enthusiast**
 
----
-
-## 🛠️ Technologies & Tools  
-- 💻 Languages: JavaScript, TypeScript, Python, C#
-- 🌐 Frameworks: React, Angular, .NET
-- 📦 Databases: SQL Server, MongoDB, Firebase 
-- 🛠️ Tools: Git, Postman, Azure   
+I am a backend specialist focused on building scalable, resilient, and high-performance enterprise applications. Currently, I'm specializing in modernizing legacy systems and architecting cloud-native solutions using **Java** and **Spring**.
 
 ---
 
-<!-- Under development 
-## 🚀 Featured Projects  
-- 📊 [Church Management System](https://github.com/your-username/your-repo) - TCU project for managing members, events, and inventories.  
-- 📱 [Minibus Usage Tracking App](https://github.com/your-username/your-repo) - Mobile application for tracking vehicle usage in the church.  
----
--->
-
-## 📌 What I'm Working on Now  
-- Learning C# and .NET for my career transition.  
-- Preparing for interviews with HackerRank and Codility.  
-- Developing my church management system for my TCU project.  
+### Tech Stack
+*   **Languages:** Java, C# and SQL.
+*   **Frameworks:** Spring Boot, Spring Security, JPA/Hibernate, NET.
+*   **DevOps & Cloud:** Docker, Kubernetes, AWS, Azure, GitHub Actions (CI/CD).
+*   **Testing:** JUnit 5, Mockito, Testcontainers.
 
 ---
-
-## 📚 My Current Reads  
-- 📖 Cracking the Coding Interview
-- 📖 Pro C# 10 with .NET 6
-- 📖 Building Web APIs with ASP.NET Core
-- 📖 Grikking Data Structures and Algorithms
-
----
-
-## 📬 Contact Me  
-- 📧 Email: [kendallsalazarvargas@gmail.com](mailto:kendallsalazarvargas@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/salazarkendall](https://linkedin.com/in/salazarkendall)  
-
----
-
-### 🚀 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salazarkendall&theme=onedark&layout=compact)  
+**How to reach me:** [linkedin](https://www.linkedin.com/in/salazarkendall/)
